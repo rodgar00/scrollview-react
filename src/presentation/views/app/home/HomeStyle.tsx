@@ -9,9 +9,9 @@ export const styles = StyleSheet.create({
         paddingHorizontal: 15,
         paddingTop: 20,
     },
-        titleText: {
+    titleText: {
         fontSize: 20,
-            fontWeight: "bold",
+        fontWeight: "bold",
         },
     scrollContainer: {
         flexDirection: "row",
